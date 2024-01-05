@@ -67,6 +67,5 @@ The script provides error messages for the following scenarios:
 - Hostname resolution error.
 - General socket error.
 
-## Author: Samuel Vaz
 
 
