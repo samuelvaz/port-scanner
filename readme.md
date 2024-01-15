@@ -59,13 +59,5 @@ Found 5 open ports
 - The script uses a default timeout of 1 second for each port connection attempt.
 - It displays the total number of open ports found during the scan.
 
-## Error Handling
-
-The script provides error messages for the following scenarios:
-
-- Keyboard interrupt (Ctrl+C).
-- Hostname resolution error.
-- General socket error.
-
 
 
